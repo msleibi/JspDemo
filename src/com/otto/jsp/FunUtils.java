@@ -7,5 +7,5 @@ public class FunUtils {
 		return data.toLowerCase();
 	}
 	
-
+	
 }
